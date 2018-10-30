@@ -6,7 +6,7 @@
 #include "GDIHelper.h"
 #include "Renderer.h"
 
-int g_nClientWidth = 640;
+int g_nClientWidth = 640; 
 int g_nClientHeight = 480;
 bool g_bIsActive;
 
